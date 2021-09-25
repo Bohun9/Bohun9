@@ -1,6 +1,6 @@
 - Hi, I'm Bohun
-- I'm interested in Computer Science and Math.
-- I'm currenlty studying at University of Wroclaw.
+- I'm interested in Computer Science and Math
+- I'm currenlty studying at University of Wroclaw
 - You can reach me by email: marcinmartowicz9@gmail.com
 
 <!---
